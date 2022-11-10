@@ -1,0 +1,9 @@
+
+feat_v2
+short feature (16 +4)  but TimeLag is better [-4:end] 
+
+
+
+
+feat_v5
+57 featrues; threshold on (15)err_br <8 %; average on all passed channels; label=1 add requirement (9)<0.1 ...fit pp: slope
