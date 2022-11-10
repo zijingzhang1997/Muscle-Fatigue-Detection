@@ -1,7 +1,6 @@
 ---
 title: "Dynamic muscle fatigue detection using RMG and sEMG "
-excerpt: "Muscle fatigue <br/><img src='/images/fatigueGIF.gif'>"
-collection: portfolio
+
 ---
 
 
